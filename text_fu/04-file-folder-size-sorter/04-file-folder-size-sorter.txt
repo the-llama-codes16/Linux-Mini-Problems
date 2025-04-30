@@ -1,0 +1,4 @@
+04-file-folder-size-sorter
+Task:
+Explore the home directory. Show the 5 largest files or folders, sorted by size.
+ 

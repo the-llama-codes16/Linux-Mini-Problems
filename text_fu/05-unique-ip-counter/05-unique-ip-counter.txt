@@ -1,0 +1,4 @@
+05-unique-ip-counter
+Task:
+You have a log with IP addresses. Count how many unique IP addresses accessed the system. Show the top 5 most frequent IPs.
+ 

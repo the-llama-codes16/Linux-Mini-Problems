@@ -1,0 +1,3 @@
+02-system-log-filter
+Task:
+Explore a log file like `/var/log/syslog`. Print only lines that contain a specific word (“failed”), and count how many there are. 

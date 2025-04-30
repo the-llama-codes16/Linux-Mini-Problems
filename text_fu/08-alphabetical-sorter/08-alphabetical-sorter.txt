@@ -1,0 +1,3 @@
+08-alphabetical-sorter
+Task:
+Given a list of names in a file, sort the names alphabetically and remove duplicates.

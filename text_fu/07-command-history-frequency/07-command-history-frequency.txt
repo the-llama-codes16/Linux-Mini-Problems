@@ -1,0 +1,3 @@
+07-command-history-frequency
+Task:
+Check your bash history and find out which command you've used the most. Show the top 5.

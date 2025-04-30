@@ -1,0 +1,3 @@
+01-word-frequency-counter
+Task:
+You’re given a `.txt` file. Find the 10 most common words in it, case-insensitive.  

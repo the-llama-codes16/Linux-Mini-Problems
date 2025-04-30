@@ -1,0 +1,9 @@
+alice    pts/0        192.168.1.2     Mon Apr 21 09:01   still logged in
+bob      pts/1        192.168.1.20    Mon Apr 21 08:45 - 08:55  (00:10)
+charlie  pts/2        192.168.1.5     Sun Apr 20 14:00 - 16:00  (02:00)
+alice    pts/3        192.168.1.2     Sun Apr 20 13:00 - 14:00  (01:00)
+dan      pts/4        192.168.1.6     Sun Apr 20 10:00 - 11:30  (01:30)
+bob      pts/5        192.168.1.20    Sat Apr 19 09:00 - 09:30  (00:30)
+charlie  pts/2        192.168.1.5     Sat Apr 19 08:00 - 09:00  (01:00)
+alice    pts/6        192.168.1.2     Sat Apr 19 07:00 - 08:00  (01:00)
+reboot   system boot  5.4.0-150       Fri Apr 18 06:00

@@ -1,0 +1,4 @@
+06-active-users-counter
+Task:
+Look into who’s logged in or has used the system. List users and how many sessions they’ve had. Sort by most active.
+ 
